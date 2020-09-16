@@ -681,4 +681,7 @@
   <!-- exTHmUI -->
   <include name="snippets/exthm.xml" />
 
+  <!-- PHH treble -->
+  <include name="snippets/treble.xml" />
+
 </manifest>
