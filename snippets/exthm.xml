@@ -5,10 +5,6 @@
            fetch="https://github.com/exthmui"
            revision="refs/heads/exthm-10" />
 
-  <remote  name="exthmui-devices"
-           fetch="https://github.com/exthmui-devices"
-           revision="refs/heads/exthm-10" />
-
   <!-- AOSP Projects -->
   <project path="build/make" name="android_build" groups="pdk" remote="exthm" >
     <copyfile src="core/root.mk" dest="Makefile" />
