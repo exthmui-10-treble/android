@@ -599,7 +599,7 @@
   <project path="system/extras" remote="lineage" name="android_system_extras" groups="pdk" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
   <project path="system/gsid" name="platform/system/gsid" groups="pdk" remote="aosp" />
-  <project path="system/hardware/interfaces" remote="lineage" name="android_system_hardware_interfaces" groups="pdk" />
+  <project path="system/hardware/interfaces" remote="exthmui-10-treble" name="android_system_hardware_interfaces" groups="pdk" />
   <project path="system/hwservicemanager" name="platform/system/hwservicemanager" groups="pdk" remote="aosp" />
   <project path="system/iorap" name="platform/system/iorap" groups="pdk" remote="aosp" />
   <project path="system/keymaster" remote="lineage" name="android_system_keymaster" groups="pdk" />
@@ -615,7 +615,7 @@
   <project path="system/nfc" remote="lineage" name="android_system_nfc" groups="pdk" />
   <project path="system/nvram" name="platform/system/nvram" groups="pdk" remote="aosp" />
   <project path="system/security" remote="lineage" name="android_system_security" groups="pdk" />
-  <project path="system/sepolicy" remote="lineage" name="android_system_sepolicy" groups="pdk" />
+  <project path="system/sepolicy" remote="exthmui-10-treble" name="android_system_sepolicy" groups="pdk" />
   <project path="system/server_configurable_flags" name="platform/system/server_configurable_flags" groups="pdk" remote="aosp" />
   <project path="system/testing/gtest_extras" name="platform/system/testing/gtest_extras" groups="pdk" remote="aosp" />
   <project path="system/timezone" remote="lineage" name="android_system_timezone" groups="pdk" />
