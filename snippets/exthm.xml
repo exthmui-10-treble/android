@@ -67,4 +67,7 @@
   <!-- exTHmUI Theme -->
   <project path="packages/themes/DefaultTheme" name="android_packages_themes_DefaultTheme" remote="exthm" />
 
+  <!-- Build script -->
+  <project path="script" name="script" remote="exthmui-10-treble" />
+
 </manifest>
