@@ -36,7 +36,7 @@
   <project path="packages/apps/Backgrounds" name="android_packages_apps_Backgrounds" remote="exthmui-10-treble" />
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="exthmui-10-treble" />
   <project path="packages/apps/Dialer" remote="exthmui-10-treble" name="android_packages_apps_Dialer" groups="pdk-fs" />
-  <project path="packages/apps/exTHmSettings" name="android_packages_apps_exTHmSettings" remote="exthm" />
+  <project path="packages/apps/exTHmSettings" name="android_packages_apps_exTHmSettings" remote="exthmui-10-treble" />
   <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="exthm" />
   <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" remote="exthm" />
   <project path="packages/apps/LineageParts" name="android_packages_apps_LineageParts" remote="exthmui-10-treble" />
